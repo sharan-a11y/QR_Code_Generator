@@ -10,7 +10,7 @@ body{
 }
 
 .container{
-    width: 400px;
+    width: 300px;
     padding: 25px 35px;
     position: absolute;
     top: 50%;
@@ -65,7 +65,7 @@ body{
 }
 
 #imgBox.show-img{
-    max-height: 3oopx;
+    max-height: 300px;
     margin: 10px auto;
     border: 1px solid #ADAABF;
 }
